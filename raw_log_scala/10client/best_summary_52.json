@@ -1,0 +1,48 @@
+{
+    "client": {
+        "0": {
+            "bertscore": 0.294,
+            "rougeLsum": 0.247
+        },
+        "1": {
+            "bertscore": 0.317,
+            "rougeLsum": 0.261
+        },
+        "2": {
+            "bertscore": 0.301,
+            "rougeLsum": 0.257
+        },
+        "3": {
+            "bertscore": 0.303,
+            "rougeLsum": 0.256
+        },
+        "4": {
+            "bertscore": 0.304,
+            "rougeLsum": 0.255
+        },
+        "5": {
+            "bertscore": 0.3,
+            "rougeLsum": 0.258
+        },
+        "6": {
+            "bertscore": 0.302,
+            "rougeLsum": 0.254
+        },
+        "7": {
+            "bertscore": 0.305,
+            "rougeLsum": 0.259
+        },
+        "8": {
+            "bertscore": 0.299,
+            "rougeLsum": 0.256
+        },
+        "9": {
+            "bertscore": 0.295,
+            "rougeLsum": 0.255
+        }
+    },
+    "server": {
+        "bertscore": 0.399,
+        "rougeLsum": 0.311
+    }
+}
