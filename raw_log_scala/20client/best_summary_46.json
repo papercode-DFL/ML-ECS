@@ -1,0 +1,88 @@
+{
+    "client": {
+        "0": {
+            "bertscore": 0.298,
+            "rougeLsum": 0.256
+        },
+        "1": {
+            "bertscore": 0.296,
+            "rougeLsum": 0.257
+        },
+        "2": {
+            "bertscore": 0.296,
+            "rougeLsum": 0.257
+        },
+        "3": {
+            "bertscore": 0.292,
+            "rougeLsum": 0.257
+        },
+        "4": {
+            "bertscore": 0.301,
+            "rougeLsum": 0.257
+        },
+        "5": {
+            "bertscore": 0.311,
+            "rougeLsum": 0.257
+        },
+        "6": {
+            "bertscore": 0.299,
+            "rougeLsum": 0.258
+        },
+        "7": {
+            "bertscore": 0.299,
+            "rougeLsum": 0.257
+        },
+        "8": {
+            "bertscore": 0.3,
+            "rougeLsum": 0.242
+        },
+        "9": {
+            "bertscore": 0.291,
+            "rougeLsum": 0.257
+        },
+        "10": {
+            "bertscore": 0.295,
+            "rougeLsum": 0.249
+        },
+        "11": {
+            "bertscore": 0.294,
+            "rougeLsum": 0.239
+        },
+        "12": {
+            "bertscore": 0.298,
+            "rougeLsum": 0.257
+        },
+        "13": {
+            "bertscore": 0.287,
+            "rougeLsum": 0.248
+        },
+        "14": {
+            "bertscore": 0.294,
+            "rougeLsum": 0.243
+        },
+        "15": {
+            "bertscore": 0.303,
+            "rougeLsum": 0.251
+        },
+        "16": {
+            "bertscore": 0.294,
+            "rougeLsum": 0.257
+        },
+        "17": {
+            "bertscore": 0.302,
+            "rougeLsum": 0.252
+        },
+        "18": {
+            "bertscore": 0.297,
+            "rougeLsum": 0.257
+        },
+        "19": {
+            "bertscore": 0.293,
+            "rougeLsum": 0.252
+        }
+    },
+    "server": {
+        "bertscore": 0.401,
+        "rougeLsum": 0.309
+    }
+}
