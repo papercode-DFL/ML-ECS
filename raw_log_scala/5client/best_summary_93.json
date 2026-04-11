@@ -1,0 +1,28 @@
+{
+    "client": {
+        "0": {
+            "bertscore": 0.313,
+            "rougeLsum": 0.264
+        },
+        "1": {
+            "bertscore": 0.3,
+            "rougeLsum": 0.255
+        },
+        "2": {
+            "bertscore": 0.315,
+            "rougeLsum": 0.264
+        },
+        "3": {
+            "bertscore": 0.311,
+            "rougeLsum": 0.265
+        },
+        "4": {
+            "bertscore": 0.316,
+            "rougeLsum": 0.265
+        }
+    },
+    "server": {
+        "bertscore": 0.397,
+        "rougeLsum": 0.309
+    }
+}
